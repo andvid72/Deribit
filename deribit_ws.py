@@ -1,3 +1,4 @@
+#Importo libraries
 import asyncio
 import websockets
 import json
